@@ -1,0 +1,33 @@
+body {
+    background-color: #F5F7F8;
+}
+
+.row {
+    justify-content: center;
+    gap: 45px;
+}
+
+h1 {
+    background-color: #db3545;
+    padding: 30px;
+}
+
+.danger-color {
+    color: #db3545;
+}
+
+img {
+    height: 200px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin-top: calc(var(--bs-gutter-x) * .5);
+}
+
+.icon {
+    margin-right: 7px;
+    color: #FFC55A;
+}
+
+.btn-outline-info:hover {
+    color: white;
+}
