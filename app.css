@@ -31,3 +31,7 @@ img {
 .btn-outline-info:hover {
     color: white;
 }
+
+.card:hover {
+    opacity: 0.8;
+}
